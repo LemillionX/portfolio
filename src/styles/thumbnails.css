@@ -1,0 +1,17 @@
+.project-thumbnail {
+    background-color: rgba(0, 0, 0, 0.85);
+    display: inline-table;
+    overflow: hidden;
+    text-align: center;
+    margin: 10px;
+    transition-duration: 0.1s;
+    transform: scale(0.95);  
+}
+
+.project-thumbnail:hover{
+    transform: scale(1);
+}
+
+.project-legend {
+    color: white;  
+}
