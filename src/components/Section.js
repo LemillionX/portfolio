@@ -1,9 +1,10 @@
 import '../styles/Project.css'
+import ProjectThumbnail from './ProjectThumbnail';
 import { Link } from 'react-router-dom';
 
 const Section = ({section}) => (
     <div className='portoflio-section'>
-        <h1> <Link to="/" className='project-section'>  {Home}</Link> - {section.name} </h1>
+        <h1> <Link to="/" className='project-header'>  Home</Link> - {section.name} </h1>
         <div className=''>
         {section.elements.map( (project) => 
           <ProjectThumbnail key={project.id}

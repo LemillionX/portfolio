@@ -13,3 +13,12 @@
     height: 100px;
     width: 100px;
 }
+
+.portfolio-sections {
+    margin: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+
+}

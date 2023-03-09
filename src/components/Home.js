@@ -1,19 +1,22 @@
 import './Home.css';
 import Banner from './Banner';
 import ProjectThumbnail from './ProjectThumbnail';
-import projects from '../indexes/animations.json'
 
+const requireContext = require.context('../indexes', false, /\.json$/);
+const files = requireContext.keys().map(requireContext);
 
 const Home = () => (
     <div className='portfolio'>
       <Banner/>
-      {projects.elements.map( (project) => 
-          <ProjectThumbnail key={project.id}
-            imageUrl={project.thumbnail}
-            title={project.name}
-            linkUrl={`./${project.id}`}
-            />
-        )}
+      <div className='portfolio-sections'>
+        {files.map( (section) => 
+            <ProjectThumbnail key={section.id}
+                imageUrl={section.thumbnail}
+                title={section.name}
+                linkUrl={`./${section.id}`}
+                />
+            )}
+        </div>
     </div>
 
 );

@@ -1,17 +1,17 @@
 {
-    "id": "3d-animations",
-    "name":"3D Animations",
+    "id": "compositing",
+    "name":"Compositing",
     "thumbnail":"./thumbnails/logo.png",
     "elements": [
         {
-            "id":"projet1",
+            "id":"compositing1",
             "name":"Projet 1",
             "thumbnail":"./thumbnails/logo.png",
             "media": "https://www.youtube.com/embed/SRENQymXKac?modestbranding=1&rel=0&showinfo=0",
             "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
         },
         {
-            "id":"projet2",
+            "id":"compositing2",
             "name":"Projet 2",
             "thumbnail":"./thumbnails/logo.png",
             "media": "https://www.youtube.com/embed/pts76zKB8hM?modestbranding=1&rel=0&showinfo=0",

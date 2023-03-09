@@ -1,3 +1,7 @@
+.portoflio-section {
+    margin:20px;
+}
+
 .portfolio-project {
     margin:20px;
 }
@@ -21,13 +25,13 @@
     padding: 20px;
 }
 
-.project-section{
+.project-header{
     border-radius: 10px;
     border: 2px solid #000000;
     padding: 7px;
     color: inherit; 
 }
 
-.project-section:link { text-decoration: none; }
-.project-section:hover { background-color: rgba(82, 82, 82, 0.548);}
+.project-header:link { text-decoration: none; }
+.project-header:hover { background-color: rgba(82, 82, 82, 0.548);}
 
