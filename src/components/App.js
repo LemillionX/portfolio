@@ -2,6 +2,7 @@ import Home from './Home'
 import Project from './Project'
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Section from './Section';
+import Contact from './Contact';
 
 const requireContext = require.context('../indexes', false, /\.json$/);
 const files = requireContext.keys().map(requireContext);
@@ -11,7 +12,8 @@ function App() {
   <Router>
     <div className='portfolio'>
       <Routes>
-        <Route path="/" element={<Home/> }/>
+      <Route path="/" element={<Home/> }/>
+      <Route path="/contact" element={<Contact/> }/>
         {files.map( (section) => {
           const routes = [];
           routes.push( <Route key={section.id} path={section.id} element={<Section section={section} />}/>);

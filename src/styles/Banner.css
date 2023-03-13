@@ -2,6 +2,8 @@
     color: rgb(255, 255, 255);
     text-align: left;
     padding: 20px;
+    width: 100vw;
+    height: auto;
     border-bottom: solid 3px black;
     display: flex;
     justify-content: flex-start;
@@ -24,4 +26,147 @@
     align-items: center;
     gap: 100px;
     transform: scale(1.25);
+    animation: slide-in-scale 1s ease-out;
+
+}
+
+.portfolio-contact {
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+
+
+.banner-item{
+    color:inherit;
+    text-shadow: 1px 1px 2px black;
+}
+.banner-item:link{text-decoration: none;}
+.banner-item:hover{text-shadow: 1px 1px 20px black;}
+
+.portfolio-bio {
+    animation: slide-in 1s ease-out;
+    font-size: large;
+    flex-wrap: wrap;
+    margin-top: 10%;
+    margin-left: 25%;
+    margin-right: 25%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    text-shadow: 5px 2px 50px #000000;
+}
+
+@keyframes slide-in {
+    0% {
+      transform: translateY(10%);
+      opacity: 0%;
+    }
+    100% {
+      transform: translateY(0%);
+      opacity: 100%;
+    }
+  }
+  
+@keyframes slide-in-scale {
+    0% {
+      transform: translateY(10%) scale(1.25);
+      opacity: 0%;
+    }
+    100% {
+      transform: translateY(0%) scale(1.25) ;
+      opacity: 100%;
+    }
+  }
+  
+
+@media screen and (max-width: 768px) {
+  
+    .portfolio-banner {
+        color: rgb(255, 255, 255);
+        text-align: center;
+        transform: translateY(-15%);
+        width: 95vw;
+        height: auto;
+        border-bottom: solid 3px black;
+        display: flex;
+        justify-content: flex-start;
+        flex-direction: column;
+        align-items: center;
+        background-color: #0f0f1462;
+        gap: 5px;
+    }
+
+    .portfolio-sections {
+        flex-wrap: wrap;
+        width: 10vw;
+        margin: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 30px;
+        transform: scale(1);
+        animation: slide-in-scale 1s ease-out;
+    
+    }
+    
+    .portfolio-contact {
+        flex-wrap: wrap;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 50px;
+    }
+    
+    
+    .banner-item{
+        color:inherit;
+        text-shadow: 1px 1px 2px black;
+    }
+    .banner-item:link{text-decoration: none;}
+    .banner-item:hover{text-shadow: 1px 1px 20px black;}
+    
+    .portfolio-bio {
+        animation: slide-in 1s ease-out;
+        font-size: large;
+        flex-wrap: wrap;
+        margin-top: 10%;
+        margin-left: 25%;
+        margin-right: 25%;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
+        text-shadow: 5px 2px 50px #000000;
+    }
+    @keyframes slide-in {
+        0% {
+          transform: translateY(10%);
+          opacity: 0%;
+        }
+        100% {
+          transform: translateY(0%);
+          opacity: 100%;
+        }
+      }
+      
+    @keyframes slide-in-scale {
+        0% {
+          transform: translateY(10%) scale(1);
+          opacity: 0%;
+        }
+        100% {
+          transform: translateY(0%) scale(1) ;
+          opacity: 100%;
+        }
+      }
+      
+    
 }

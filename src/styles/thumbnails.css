@@ -15,5 +15,24 @@
 }
 .project-legend:link { text-decoration: none; }
 
+.contact-thumbnail {
+    display: inline-table;
+    overflow: hidden;
+    text-align: center;
+    margin: 10px;
+    transition-duration: 0.1s;
+    transform: scale(0.95);  
+}
+
+.contact-thumbnail:hover{transform: scale(1);}
+
+.contact-legend {
+    color: white;  
+    font-weight: 900;
+    text-shadow: 1px 1px 2px black, 0 0 1em black, 0 0 0.2em black;
+}
+.contact-legend:link { text-decoration: none; }
+
+
 
 
