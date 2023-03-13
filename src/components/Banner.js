@@ -5,8 +5,10 @@ import logo from '../assets/logo.png'
 function Banner() {
     return (
     <div className="portfolio-banner">
-        <img src={logo} alt='My Portfolio' className='portfolio-logo'  ></img>
-        <h1> My Portfolio  </h1>
+        <h1> Sammy Rasamimanana  </h1>
+        <p> Home </p>
+        <p> About me </p>
+        <p> Contact </p>
     </div>
     )
 }

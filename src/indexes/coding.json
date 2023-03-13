@@ -2,6 +2,7 @@
     "id": "coding",
     "name":"Coding Projects",
     "thumbnail":"/thumbnails/logo.png",
+    "background":"/background/coding.png" ,
     "elements": [
         {
             "id":"code1",

@@ -2,6 +2,7 @@
     "id": "3d-animations",
     "name":"3D Animations",
     "thumbnail":"/thumbnails/logo.png",
+    "background":"/background/animations.png" ,
     "elements": [
         {
             "id":"projet1",

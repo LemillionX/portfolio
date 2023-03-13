@@ -9,7 +9,7 @@ const files = requireContext.keys().map(requireContext);
 function App() {
   return (
   <Router>
-    <div>
+    <div className='portfolio'>
       <Routes>
         <Route path="/" element={<Home/> }/>
         {files.map( (section) => {

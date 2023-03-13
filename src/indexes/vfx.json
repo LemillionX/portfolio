@@ -2,6 +2,7 @@
     "id": "editing",
     "name":"Editing",
     "thumbnail":"/thumbnails/logo.png",
+    "background":"/background/editing.png" ,
     "elements": [
         {
             "id":"editing1",
