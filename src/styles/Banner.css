@@ -15,6 +15,7 @@
 }
 
 .portfolio-sections {
+    flex-wrap: wrap;
     margin: 200px;
     display: flex;
     justify-content: center;
