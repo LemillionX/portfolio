@@ -2,7 +2,7 @@
     color: rgb(255, 255, 255);
     text-align: left;
     padding: 20px;
-    width: 100vw;
+    width: auto;
     height: auto;
     border-bottom: solid 3px black;
     display: flex;
@@ -60,6 +60,13 @@
     align-items: center;
     gap: 10px;
     text-shadow: 5px 2px 50px #000000;
+}
+
+.bio-description {
+  background-color: #00000073;
+  padding: 7px;
+  font-style: italic;
+  text-align: center;
 }
 
 @keyframes slide-in {
@@ -136,8 +143,8 @@
         font-size: large;
         flex-wrap: wrap;
         margin-top: 10%;
-        margin-left: 25%;
-        margin-right: 25%;
+        margin-left: 10%;
+        margin-right: 10%;
         height: auto;
         display: flex;
         flex-direction: column;
@@ -146,6 +153,14 @@
         gap: 10px;
         text-shadow: 5px 2px 50px #000000;
     }
+
+    .bio-description {
+      text-align: center;
+      background-color: #00000073;
+      padding: 7px;
+      font-style: italic;
+    }
+
     @keyframes slide-in {
         0% {
           transform: translateY(10%);

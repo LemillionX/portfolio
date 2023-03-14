@@ -8,6 +8,12 @@
     transform: scale(0.95);  
 }
 
+.thumbnail {
+    height: 199px;
+    width: 236px;
+    object-fit: cover;
+}
+
 .project-thumbnail:hover{transform: scale(1);}
 
 .project-legend {
