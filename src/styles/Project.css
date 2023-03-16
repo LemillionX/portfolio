@@ -1,5 +1,6 @@
 .portoflio-section {
     margin:20px;
+    height: auto;
 }
 
 .portfolio-project {
@@ -59,11 +60,25 @@
 .project-header:hover { background-color: rgba(82, 82, 82, 0.548);}
 
 @media screen and (max-width: 768px) {
+    .portoflio-section {
+        margin:20px;
+        height: 100vw;
+    }
+    
+    .portfolio-project {
+        margin:20px;
+        flex-wrap: wrap;
+        height: 100vw;
+        width: auto;
+    }
+    
+
     .project-title{
         font-size: 100%;
     }
 
     .project-list{
+        justify-content: center;
         animation: slide-in-phone 1s ease-out;
         transform: translate(0%, -15%)  scale(0.7);
     }
@@ -80,7 +95,7 @@
         height: auto;
         margin: 10px ;
         border-radius: 5px;
-        border: 2px solid #000000;
+        border: 2px solid #ffffff;
         padding: 20px;
     }
     
@@ -88,7 +103,7 @@
         transform: translate(0%, -10%) scale(0.8);
         flex-wrap: wrap;
         display: flex;
-        justify-content: left;
+        justify-content: center;
         align-items: center;
         gap: 50px;
     }

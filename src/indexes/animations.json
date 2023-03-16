@@ -5,82 +5,82 @@
     "background":"/background/animations.png" ,
     "elements": [
         {
-            "id":"projet1",
+            "id":"violet",
             "name":"Auto Memory Doll",
             "thumbnail":"/thumbnails/auto-memory-doll.png",
             "media": "https://www.youtube.com/embed/SRENQymXKac?modestbranding=1&rel=0&showinfo=0",
-            "description":"An introduction scene of Violet Evergarden, the main character of the eponym light novel that got an animated adaptation by Kyoto Animation. <br> <i> Violet's model by Okuto. </i> <br> <ul> <li> Software: Blender (Cycles) <li> Date: 21/05/2022 <li> Time spent: 1 week approx.  </ul>"
+            "description":"An introduction scene of Violet Evergarden, the main character of the eponym light novel that got an animated adaptation by Kyoto Animation. <br> <i> Violet's model by Okuto. </i> <br> <ul> <li> Software: Blender (Cycles) <li> Date: 05/2022 <li> Time spent: 1 week approx.  </ul>"
         },
         {
-            "id":"projet2",
+            "id":"wotakoi",
             "name":"Wotakoi but it is Genshin",
             "thumbnail":"/thumbnails/wotakoi-genshin.png",
             "media": "https://www.youtube.com/embed/pts76zKB8hM?modestbranding=1&rel=0&showinfo=0",
-            "description":"A short animation inspired by the opening of  ヲタクに恋は難しい (Wotaku ni koi wa muzukashii). The characters are from the video game <i> Genshin Impact. </i> <br> <ul> <li> Software: Blender (Eevee) <li> Date: 03/12/2022 <li> Time spent: 4 days approx.  </ul>"
-        },
-        {
-            "id":"projet3",
-            "name":"Sports sections",
-            "thumbnail":"/thumbnails/intro-sections.png",
-            "media": "https://www.youtube-nocookie.com/embed/y9Sfb6u7K-w?modestbranding=1&rel=0&showinfo=0",
-            "description":"An animation that presents all the sports available at my university. For two years, it was shown when new students arrived. <br> <ul> <li> Software: Blender (Eevee) <li> Date: 04/08/2021 <li> Time spent: 2 weeks approx. </ul> "
+            "description":"A short animation inspired by the opening of  ヲタクに恋は難しい (Wotaku ni koi wa muzukashii). The characters are from the video game <i> Genshin Impact. </i> <br> <ul> <li> Software: Blender (Eevee) and After Effects <li> Date: 12/2022 <li> Time spent: 4 days approx.  </ul>"
         },
         {
             "id":"fireworks",
             "name":"Fireworks",
             "thumbnail":"/thumbnails/fireworks.png",
             "media": "https://www.youtube.com/embed/UQ63i4Mb5RQ?modestbranding=1&rel=0&showinfo=0",
-            "description":"TO DO. <br> <ul> <li> Software: Blender (Cycles) <li> Date: 01/09/2022 <li> Time spent: 3 weeks approx. </ul> "
+            "description":"An attempt to create a Disney-like animation using <i> The Voice France</i>'s interpretation of Katy Perry's song, <i> Fireworks</i>. Characters are <i> Rain </i> (Blender Studio) and <i> Iris </i> (@pancake_manicure) <br> <ul> <li> Software: Blender (Cycles) <li> Date: 09/2022 <li> Time spent: 3 weeks approx. </ul> "
         },
         {
-            "id":"projet4",
+            "id":"shadow",
             "name":"Shadow the Hedgehog",
             "thumbnail":"/thumbnails/shadow-the-hedgehog.png",
             "media": "https://www.youtube.com/embed/M7yNghIEZTI?modestbranding=1&rel=0&showinfo=0",
-            "description":"Lorem ipsum dolor sit amet, <br> consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-        },    
-        {
-            
-            "id":"projet5",
-            "name":"Azula's firestyle",
-            "thumbnail":"/thumbnails/azula.png",
-            "media": "https://www.youtube.com/embed/CGlAXe1San4?modestbranding=1&rel=0&showinfo=0",
-            "description":"Lorem ipsum dolor sit amet, <br> consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-        },    
-        {
-            "id":"projet6",
-            "name":"SeeYa",
-            "thumbnail":"/thumbnails/seeYa.png",
-            "media": "https://www.youtube.com/embed/8oM63Qflm3c?modestbranding=1&rel=0&showinfo=0",
-            "description":"Lorem ipsum dolor sit amet, <br> consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+            "description":"Featuring my favorite hedgehog (sorry Sonic), I tested Mixamo's characters and animation on the soldiers. <br> <ul> <li> Software: Blender (Cycles) <li> Date: 05/2022 <li> Time spent: 1 week approx. </ul> "
         },
         {
-            "id":"projet7",
-            "name":"Virtualisation",
-            "thumbnail":"/thumbnails/virtualisation.png",
-            "media": "https://www.youtube.com/embed/AHLBLbkQTvY?modestbranding=1&rel=0&showinfo=0",
-            "description":"Lorem ipsum dolor sit amet, <br> consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-        },
-        {
-            "id":"projet8",
+            "id":"raiden",
             "name":"Raiden",
             "thumbnail":"/thumbnails/raiden_-entrance.png",
             "media": "https://www.youtube.com/embed/qOUiX1pQls4?modestbranding=1&rel=0&showinfo=0",
-            "description":"Lorem ipsum dolor sit amet, <br> consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+            "description":" <br> <ul> <li> Software: Blender (Eevee) <li> Date: 07/2022 <li> Time spent: 1 week approx. </ul>"
+        },    
+        {
+            
+            "id":"azula",
+            "name":"Azula's firestyle",
+            "thumbnail":"/thumbnails/azula.png",
+            "media": "https://www.youtube.com/embed/CGlAXe1San4?modestbranding=1&rel=0&showinfo=0",
+            "description":"A short choregraphy of Azula from <i> Avatar: The Last Airbender </i> practicing her firebending. <br> <ul> <li> Software: Blender (Eevee) <li> Date: 06/2022 <li> Time spent: 1 week approx. </ul>"
+        },    
+        {
+            "id":"seeya",
+            "name":"SeeYa",
+            "thumbnail":"/thumbnails/seeYa.png",
+            "media": "https://www.youtube.com/embed/8oM63Qflm3c?modestbranding=1&rel=0&showinfo=0",
+            "description":" Inspired by <i> Non Non Biyori </i> and featuring Anya from <i> Spy x Family </i>  <br> <ul> <li> Software: Blender (Eevee) <li> Date: 04/2022 <li> Time spent: 1 day </ul> "
         },
         {
-            "id":"projet9",
+            "id":"virtualisation",
+            "name":"Virtualisation",
+            "thumbnail":"/thumbnails/virtualisation.png",
+            "media": "https://www.youtube.com/embed/AHLBLbkQTvY?modestbranding=1&rel=0&showinfo=0",
+            "description":" The beginning of an unfinished <i> Code Lyoko </i> project. Characters are from the PS2 game <i> Code Lyoko : Plongez vers l'Infini </i>. <br> <ul> <li> Software: Blender (Eevee + Cycles) <li> Date: 02/2022 <li> Time spent: 1 week approx. </ul> "
+        },
+        {
+            "id":"nope",
             "name":"No",
             "thumbnail":"/thumbnails/no.png",
             "media": "https://www.youtube.com/embed/TTBkFFDeyFc?modestbranding=1&rel=0&showinfo=0",
-            "description":"Lorem ipsum dolor sit amet, <br> consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+            "description":"<i> Rain </i> saying 'No'. This was made to see how far my internship in a motion capture studio changed my vision of facial animation. <br> <ul> <li> Software: Blender (Cycles) <li> Date: 08/2022 <li> Time spent: 1 hour </ul> "
         },
         {
-            "id":"projet10",
+            "id":"sections",
+            "name":"Sports sections",
+            "thumbnail":"/thumbnails/intro-sections.png",
+            "media": "https://www.youtube-nocookie.com/embed/y9Sfb6u7K-w?modestbranding=1&rel=0&showinfo=0",
+            "description":"An animation that presents all the sports available at my university. For two years, it was shown when new students arrived. <br> <ul> <li> Software: Blender (Eevee) <li> Date: 04/08/2021 <li> Time spent: 2 weeks approx. </ul> "
+        },
+        {
+            "id":"intro-disney",
             "name":"Disney remake",
             "thumbnail":"/thumbnails/disney.png",
             "media": "https://www.youtube.com/embed/mgJH6ZZf_BM?modestbranding=1&rel=0&showinfo=0",
-            "description":"Lorem ipsum dolor sit amet, <br> consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+            "description":"A parody of Disney's intro and <i> Rise Of the Guardians</i>. <br> <ul> <li> Software: Blender (Cycles) and After Effects <li> Date: 04/2022 <li> Time spent: 3 weeks approx. </ul>"
         }
     ]
 }
