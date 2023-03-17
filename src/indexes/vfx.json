@@ -5,10 +5,10 @@
     "background":"/background/editing.png" ,
     "elements": [
         {
-            "id":"compositing1",
-            "name":"Projet 1",
-            "thumbnail":"/thumbnails/logo.png",
-            "media": "https://www.youtube.com/embed/SRENQymXKac?modestbranding=1&rel=0&showinfo=0",
+            "id":"just-dance",
+            "name":"Just Dance: Blinding ligths",
+            "thumbnail":"/thumbnails/just-dance.png",
+            "media": "https://www.youtube.com/embed/WHNvdjrk-V8?modestbranding=1&rel=0&showinfo=0",
             "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
         },
         {

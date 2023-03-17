@@ -3,20 +3,55 @@
     "name":"Coding Projects",
     "thumbnail":"/thumbnails/logo.png",
     "background":"/background/coding.png" ,
-    "elements": [
+    "elements": [        
+        {
+            "id":"df-stable-fluids",
+            "name":"Differentiable Stable Fluid",
+            "thumbnail":"/thumbnails/df-stable-fluids.png",
+            "media": "https://www.youtube.com/embed/LY-37liagpg?modestbranding=1&rel=0&showinfo=0",
+            "description":"TO DO <br> <ul> <li> Coded in Python, source code <a target='_blank' style='color:white;' href='/'> here </a> <li> Date: 02/2023 <li> Time spent: 2 months approx. </ul>"
+        },
+        {
+            "id":"xpbd",
+            "name":"XPBD",
+            "thumbnail":"/thumbnails/xpbd.png",
+            "media": "https://www.youtube.com/embed/LY-37liagpg?modestbranding=1&rel=0&showinfo=0",
+            "description":"TO DO <br> <ul> <li> Coded in C++, source code <a target='_blank' style='color:white;' href='/'> here </a> <li> Date: 02/2023 <li> Time spent: 2 months approx. </ul>"
+        },
         {
             "id":"dfsph",
             "name":"DFSPH",
             "thumbnail":"/thumbnails/dfsph.png",
             "media": "https://www.youtube.com/embed/LY-37liagpg?modestbranding=1&rel=0&showinfo=0",
             "description":"TO DO <br> <ul> <li> Coded in C++, source code <a target='_blank' style='color:white;' href='/'> here </a> <li> Date: 02/2023 <li> Time spent: 1 week </ul>"
-        },        
+        },
         {
-            "id":"non-rigid",
+            "id":"facial-retargeting",
+            "name":"Facial Retargeting",
+            "thumbnail":"/thumbnails/facial-retargeting.png",
+            "media": "https://www.youtube.com/embed/LY-37liagpg?modestbranding=1&rel=0&showinfo=0",
+            "description":"TO DO <br> <ul> <li> Coded in C++, source code <a target='_blank' style='color:white;' href='/'> here </a> <li> Date: 02/2023 <li> Time spent: 1 week </ul>"
+        },
+        {
+            "id":"suggestive-contours",
+            "name":"Suggestive contours",
+            "thumbnail":"/thumbnails/suggestive-contours.png",
+            "media": "https://www.youtube.com/embed/LY-37liagpg?modestbranding=1&rel=0&showinfo=0",
+            "description":"TO DO <br> <ul> <li> Coded in C++, source code <a target='_blank' style='color:white;' href='/'> here </a> <li> Date: 03/2022 <li> Time spent: 1 week </ul>"
+        },              
+        {
+            "id":"bowling",
             "name":"Bowling simulation",
             "thumbnail":"/thumbnails/bowling.png",
             "media": "https://www.youtube.com/embed/tuSq-qUO-BU?modestbranding=1&rel=0&showinfo=0",
             "description":"TO DO <br> <ul> <li> Coded in C++, source code <a target='_blank' style='color:white;' href='https://github.com/LemillionX/inf585'> here </a> <li> Date: 03/2022 <li> Time spent: 1 week </ul>"
+        },
+        {
+            "id":"dataviz",
+            "name":"Trending Youtube Videos Statistics",
+            "thumbnail":"/thumbnails/dataviz.png",
+            "media": "https://www.youtube.com/embed/8nKsKM-M0n0?modestbranding=1&rel=0&showinfo=0",
+            "description":"TO DO <br> <ul> <li> Coded in C++, source code <a target='_blank' style='color:white;' href='https://github.com/LemillionX/inf585'> here </a> <li> Date: 12/2021 <li> Time spent: 3 days </ul>"
         },
         {
             "id":"non-rigid",
@@ -30,7 +65,7 @@
             "name":"Tenet",
             "thumbnail":"/thumbnails/tenet.png",
             "media": "https://www.youtube.com/embed/gyAUloRgF9E?modestbranding=1&rel=0&showinfo=0",
-            "description":"My first computer graphics coding project. In a group of 3, we tried to create a scene with a Tenet-like concept. <br> <ul> <li> Coded in C++, source code <a target='_blank' style='color:white;' href='https://github.com/LemillionX/inf443'> here </a> <li> Date: 06/2021 <li> Time spent: 1 month approx.</ul>"
+            "description":"My first computer graphics coding project. In a group of 3, we tried to create a scene with a Tenet-like concept for a school project. <br> <ul> <li> Coded in C++, source code <a target='_blank' style='color:white;' href='https://github.com/LemillionX/inf443'> here </a> <li> Date: 06/2021 <li> Time spent: 1 month approx.</ul>"
         }
     ]
 }

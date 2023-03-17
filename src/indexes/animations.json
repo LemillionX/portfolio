@@ -73,7 +73,31 @@
             "name":"Sports sections",
             "thumbnail":"/thumbnails/intro-sections.png",
             "media": "https://www.youtube-nocookie.com/embed/y9Sfb6u7K-w?modestbranding=1&rel=0&showinfo=0",
-            "description":"An animation that presents all the sports available at my university. For two years, it was shown when new students arrived. <br> <ul> <li> Software: Blender (Eevee) <li> Date: 04/08/2021 <li> Time spent: 2 weeks approx. </ul> "
+            "description":"An animation that presents all the sports available at my university. For two years, it was shown when new students arrived. <br> <ul> <li> Software: Blender (Eevee) <li> Date: 08/2021 <li> Time spent: 2 weeks approx. </ul> "
+        },
+        {
+            "id":"untitled",
+            "name":"Untitled",
+            "thumbnail":"/thumbnails/untitled.png",
+            "media": "https://www.youtube.com/embed/rpqKkX9FQp0?modestbranding=1&rel=0&showinfo=0",
+            "description":"TO DO. <br> <ul> <li> Software: Blender (Cycles) <li> Date: 12/2021 <li> Time spent: 4 weeks approx. </ul> "
+
+        },
+        {
+            "id":"daily-life",
+            "name":"Daily life",
+            "thumbnail":"/thumbnails/daily-life.png",
+            "media": "https://www.youtube.com/embed/siBNavmm_n0?modestbranding=1&rel=0&showinfo=0",
+            "description":"TO DO. <br> <ul> <li> Software: Blender (Cycles) <li> Date: 05/2021 <li> Time spent: 2 weeks approx. </ul> "
+
+        },
+        {
+            "id":"jtx-m6",
+            "name":"M6 add remake",
+            "thumbnail":"/thumbnails/jtx-m6.png",
+            "media": "https://www.youtube.com/embed/D3vi2jvmY8U?modestbranding=1&rel=0&showinfo=0",
+            "description":"TO DO. <br> <ul> <li> Software: Blender (Eevee) <li> Date: 05/2021 <li> Time spent: 1 hour approx. </ul> "
+
         },
         {
             "id":"intro-disney",
