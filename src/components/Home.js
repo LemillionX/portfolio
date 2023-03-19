@@ -9,7 +9,7 @@ const files = requireContext.keys().map(requireContext);
 const Home = () => (
     useEffect(() => {
         document.body.style.backgroundBlendMode = "normal";
-        document.body.style.backgroundImage = "url('/background/home.png')";
+        document.body.style.backgroundImage = "url('./background/home.png')";
       }),
 
     <div >

@@ -14,35 +14,35 @@
         {
             "id":"wotakoi",
             "name":"Wotakoi but it is Genshin",
-            "thumbnail":"/thumbnails/wotakoi-genshin.png",
+            "thumbnail":"./thumbnails/wotakoi-genshin.png",
             "media": "https://www.youtube.com/embed/pts76zKB8hM?modestbranding=1&rel=0&showinfo=0",
             "description":"A short animation inspired by the opening of  ヲタクに恋は難しい (Wotaku ni koi wa muzukashii). The characters are from the video game <i> Genshin Impact. </i> <br> <ul> <li> Software: Blender (Eevee) and After Effects <li> Date: 12/2022 <li> Time spent: 4 days approx.  </ul>"
         },
         {
             "id":"fireworks",
             "name":"Fireworks",
-            "thumbnail":"/thumbnails/fireworks.png",
+            "thumbnail":"./thumbnails/fireworks.png",
             "media": "https://www.youtube.com/embed/UQ63i4Mb5RQ?modestbranding=1&rel=0&showinfo=0",
             "description":"An attempt to create a Disney-like animation using <i> The Voice France</i>'s interpretation of Katy Perry's song, <i> Fireworks</i>. Characters are <i> Rain </i> (Blender Studio) and <i> Iris </i> (@pancake_manicure) <br> <ul> <li> Software: Blender (Cycles) <li> Date: 09/2022 <li> Time spent: 3 weeks approx. </ul> "
         },
         {
             "id":"zeal-of-proud",
             "name":"Zeal of Proud",
-            "thumbnail":"/thumbnails/roselia.png",
+            "thumbnail":"./thumbnails/roselia.png",
             "media": "https://www.youtube.com/embed/WfSrRJHF4P8?modestbranding=1&rel=0&showinfo=0",
             "description":"Fan-made animation of Roselia singing <i> Zeal of Proud </i> on stage. First attempt to apply physics on bones for hair and cloth simulations. Characters are from <i> BanG Dream! </i> (Bushiroad) <br> <ul> <li> Software: Blender (Cycles) and Premiere Pro <li> Date: 07/2022 <li> Time spent: 3 weeks approx. </ul> "
         },
         {
             "id":"shadow",
             "name":"Shadow the Hedgehog",
-            "thumbnail":"/thumbnails/shadow-the-hedgehog.png",
+            "thumbnail":"./thumbnails/shadow-the-hedgehog.png",
             "media": "https://www.youtube.com/embed/M7yNghIEZTI?modestbranding=1&rel=0&showinfo=0",
             "description":"Featuring my favorite hedgehog (sorry Sonic), I tested Mixamo's characters and animation on the soldiers. <br> <ul> <li> Software: Blender (Cycles) <li> Date: 05/2022 <li> Time spent: 1 week approx. </ul> "
         },
         {
             "id":"raiden",
             "name":"Raiden",
-            "thumbnail":"/thumbnails/raiden_-entrance.png",
+            "thumbnail":"./thumbnails/raiden_-entrance.png",
             "media": "https://www.youtube.com/embed/qOUiX1pQls4?modestbranding=1&rel=0&showinfo=0",
             "description":"An attempt to reproduce Raiden's entrance from <i> Genshin Impact </i> <br> <ul> <li> Software: Blender (Eevee) <li> Date: 07/2022 <li> Time spent: 1 week approx. </ul>"
         },    
@@ -50,42 +50,42 @@
             
             "id":"azula",
             "name":"Azula's firestyle",
-            "thumbnail":"/thumbnails/azula.png",
+            "thumbnail":"./thumbnails/azula.png",
             "media": "https://www.youtube.com/embed/CGlAXe1San4?modestbranding=1&rel=0&showinfo=0",
             "description":"A short choregraphy of Azula from <i> Avatar: The Last Airbender </i> practicing her firebending. <br> <ul> <li> Software: Blender (Eevee) <li> Date: 06/2022 <li> Time spent: 1 week approx. </ul>"
         },    
         {
             "id":"seeya",
             "name":"SeeYa",
-            "thumbnail":"/thumbnails/seeYa.png",
+            "thumbnail":"./thumbnails/seeYa.png",
             "media": "https://www.youtube.com/embed/8oM63Qflm3c?modestbranding=1&rel=0&showinfo=0",
             "description":" Inspired by <i> Non Non Biyori </i> and featuring Anya from <i> Spy x Family </i>  <br> <ul> <li> Software: Blender (Eevee) <li> Date: 04/2022 <li> Time spent: 1 day </ul> "
         },
         {
             "id":"virtualisation",
             "name":"Virtualisation",
-            "thumbnail":"/thumbnails/virtualisation.png",
+            "thumbnail":"./thumbnails/virtualisation.png",
             "media": "https://www.youtube.com/embed/AHLBLbkQTvY?modestbranding=1&rel=0&showinfo=0",
             "description":" The beginning of an unfinished <i> Code Lyoko </i> project. Characters are from the PS2 game <i> Code Lyoko : Plongez vers l'Infini </i>. <br> <ul> <li> Software: Blender (Eevee + Cycles) <li> Date: 02/2022 <li> Time spent: 1 week approx. </ul> "
         },
         {
             "id":"nope",
             "name":"No",
-            "thumbnail":"/thumbnails/no.png",
+            "thumbnail":"./thumbnails/no.png",
             "media": "https://www.youtube.com/embed/TTBkFFDeyFc?modestbranding=1&rel=0&showinfo=0",
             "description":"<i> Rain </i> saying 'No'. This was made to see how far my internship in a motion capture studio changed my vision of facial animation. <br> <ul> <li> Software: Blender (Cycles) <li> Date: 08/2022 <li> Time spent: 1 hour </ul> "
         },
         {
             "id":"sections",
             "name":"Sports sections",
-            "thumbnail":"/thumbnails/intro-sections.png",
+            "thumbnail":"./thumbnails/intro-sections.png",
             "media": "https://www.youtube-nocookie.com/embed/y9Sfb6u7K-w?modestbranding=1&rel=0&showinfo=0",
             "description":"An animation that presents all the sports available at my university. For two years, it was shown when new students arrived. <br> <ul> <li> Software: Blender (Eevee) <li> Date: 08/2021 <li> Time spent: 2 weeks approx. </ul> "
         },
         {
             "id":"untitled",
             "name":"Untitled",
-            "thumbnail":"/thumbnails/untitled.png",
+            "thumbnail":"./thumbnails/untitled.png",
             "media": "https://www.youtube.com/embed/rpqKkX9FQp0?modestbranding=1&rel=0&showinfo=0",
             "description":"My first little movie. <br> <ul> <li> Software: Blender (Cycles) <li> Date: 12/2021 <li> Time spent: 4 weeks approx. </ul> "
 
@@ -93,7 +93,7 @@
         {
             "id":"daily-life",
             "name":"Daily life",
-            "thumbnail":"/thumbnails/daily-life.png",
+            "thumbnail":"./thumbnails/daily-life.png",
             "media": "https://www.youtube.com/embed/siBNavmm_n0?modestbranding=1&rel=0&showinfo=0",
             "description":"Inspired by <i> Horimiya, </i> this is a short clip describing the everyday life of a member of a video production association. <br> <ul> <li> Software: Blender (Cycles) <li> Date: 05/2021 <li> Time spent: 2 weeks approx. </ul> "
 
@@ -101,7 +101,7 @@
         {
             "id":"jtx-m6",
             "name":"M6 add remake",
-            "thumbnail":"/thumbnails/jtx-m6.png",
+            "thumbnail":"./thumbnails/jtx-m6.png",
             "media": "https://www.youtube.com/embed/D3vi2jvmY8U?modestbranding=1&rel=0&showinfo=0",
             "description":"An attempt to reproduce the commercial spot of the channel M6. <br> <ul> <li> Software: Blender (Eevee) <li> Date: 05/2021 <li> Time spent: 1 hour approx. </ul> "
 
@@ -109,7 +109,7 @@
         {
             "id":"intro-disney",
             "name":"Disney remake",
-            "thumbnail":"/thumbnails/disney.png",
+            "thumbnail":"./thumbnails/disney.png",
             "media": "https://www.youtube.com/embed/mgJH6ZZf_BM?modestbranding=1&rel=0&showinfo=0",
             "description":"A parody of Disney's intro and <i> Rise Of the Guardians</i>. <br> <ul> <li> Software: Blender (Cycles) and After Effects <li> Date: 04/2022 <li> Time spent: 3 weeks approx. </ul>"
         }

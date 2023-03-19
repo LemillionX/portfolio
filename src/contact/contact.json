@@ -3,26 +3,26 @@
     {
         "id": "linkedin",
         "name": "LinkedIn",
-        "thumbnail": "/icons/icons8-linkedin-96.png", 
+        "thumbnail": "./icons/icons8-linkedin-96.png", 
         "url": "https://www.linkedin.com/in/sammy-rasamimanana-62aa78202"
     }, 
     {
         "id": "email",
         "name": "Email",
-        "thumbnail": "/icons/icons8-nouveau-message-90.png", 
+        "thumbnail": "./icons/icons8-nouveau-message-90.png", 
         "url": "mailto:tiana.rasamimanana.2019@polytechnique.org"
     },
     {
         "id": "github",
         "name": "GitHub",
-        "thumbnail": "/icons/icons8-github-150.png", 
+        "thumbnail": "./icons/icons8-github-150.png", 
         "url":"https://github.com/LemillionX"
     },
     {
         "id":"cv",
         "name": "Resume",
-        "thumbnail": "/icons/icons8-cv-96.png",
-        "url":"/files/CV_en.pdf"
+        "thumbnail": "./icons/icons8-cv-96.png",
+        "url":"./files/CV_en.pdf"
     }
     ]
 

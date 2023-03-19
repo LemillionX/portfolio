@@ -1,69 +1,69 @@
 {
     "id": "coding",
     "name":"Coding Projects",
-    "thumbnail":"/thumbnails/coding.png",
-    "background":"/background/coding.png" ,
+    "thumbnail":"./thumbnails/coding.png",
+    "background":"./background/coding.png" ,
     "elements": [        
         {
             "id":"df-stable-fluids",
             "name":"Differentiable Stable Fluid",
-            "thumbnail":"/thumbnails/df-stable-fluids.png",
-            "media": "/thumbnails/df-stable-fluids.png",
+            "thumbnail":"./thumbnails/df-stable-fluids.png",
+            "media": "./thumbnails/df-stable-fluids.png",
             "description":"The objective of this project was to develop a stable fluid solver using the TensorFlow machine learning library. The solver is differentiable and able to integrate into training processes. <br> <ul> <li> Coded in Python, source code <a target='_blank' style='color:white;' href='https://github.com/LemillionX/PRIM_S1'> here </a> <li> Date: 02/2023 <li> Time spent: 2 months approx. </ul>"
         },
         {
             "id":"xpbd",
             "name":"XPBD",
-            "thumbnail":"/thumbnails/xpbd.png",
-            "media": "/thumbnails/xpbd.png",
+            "thumbnail":"./thumbnails/xpbd.png",
+            "media": "./thumbnails/xpbd.png",
             "description":"One approach to perform fast physics simulations is position-based dynamics (PBD). The basic idea is, for a set of vertices, to move them in such a way that certain constraints are satisfied. Although this is a simple and fast method to animate objects, it is not physically accurate and has some notable flaws. One of these problems is the dependence of the stiffness on the number of substeps in the Gauss-Seidel method used to solve the system. In this project, we explore XPBD, an extended version of PBD that addresses this stiffness dependence problem. <br> <ul> <li> Coded in C++, source code <a target='_blank' style='color:white;' href='https://github.com/LemillionX/IMA904_XPBD'> here </a> <li> Date: 02/2023 <li> Time spent: 2 months approx. </ul>"
         },
         {
             "id":"dfsph",
             "name":"DFSPH",
-            "thumbnail":"/thumbnails/dfsph.png",
+            "thumbnail":"./thumbnails/dfsph.png",
             "media": "https://www.youtube.com/embed/LY-37liagpg?modestbranding=1&rel=0&showinfo=0",
             "description":"This project implemented a variation of the Smoothed Particle Hydrodynamics (SPH) that enforces the divergence free condition. The core idea is to introduce two corrections: one for the density and one for the divergence of the velocity field. <br> <ul> <li> Coded in C++ <li> Date: 02/2023 <li> Time spent: 1 week </ul>"
         },
         {
             "id":"facial-retargeting",
             "name":"Facial Retargeting",
-            "thumbnail":"/thumbnails/facial-retargeting.png",
-            "media": "/thumbnails/facial-retargeting.png",
+            "thumbnail":"./thumbnails/facial-retargeting.png",
+            "media": "./thumbnails/facial-retargeting.png",
             "description":"During my internship in the R&D team of MocapLab, I had to design a simple and robust facial integration tool from point clouds. The implemented method is compatible with 3D or 2D data, works in a reasonable time and can be integrated in Maya and MotionBuilder. <br> <ul> <li> Coded in Python and C++ <li> Date: 08/2022 <li> Time spent: 5 months </ul>"
         },
         {
             "id":"suggestive-contours",
             "name":"Suggestive contours",
-            "thumbnail":"/thumbnails/suggestive-contours.png",
-            "media": "/thumbnails/suggestive-contours.png",
+            "thumbnail":"./thumbnails/suggestive-contours.png",
+            "media": "./thumbnails/suggestive-contours.png",
             "description":"An implementation of the object-based approach of the paper <i> Suggestive Contours for Conveying Shape.</i> written by D. DeCarlo, A. Finkelstein, S. Rusinkiewicz, and A. Santella. This project adresses a non-photorealistic rendering question: how to draw the contours of a 3D mesh in the way an artist would do it. By taking into account the human perception, an artist not only draws the contours of an object, which are features where a surface bends sharply away from the viewer - yet remains visible -, but also suggestive contours, i-e lines that are almost contours, that become contours in nearby views. <br> <ul> <li> Coded in C++ <li> Date: 03/2022 <li> Time spent: 1 week </ul>"
         },              
         {
             "id":"bowling",
             "name":"Bowling simulation",
-            "thumbnail":"/thumbnails/bowling.png",
+            "thumbnail":"./thumbnails/bowling.png",
             "media": "https://www.youtube.com/embed/tuSq-qUO-BU?modestbranding=1&rel=0&showinfo=0",
             "description":"This project was an attempt to implement a bowling simulator. In order to limit the difficulty, we used cylinders for the primitives that represents the pins, and a simple homogenous sphere for the ball. The GUI allows the user to move the ball to the left or to the right, but also to control the intensity of its speed. <br> <ul> <li> Coded in C++, source code <a target='_blank' style='color:white;' href='https://github.com/LemillionX/inf585'> here </a> <li> Date: 03/2022 <li> Time spent: 1 week </ul>"
         },
         {
             "id":"dataviz",
             "name":"Trending Youtube Statistics",
-            "thumbnail":"/thumbnails/dataviz.png",
+            "thumbnail":"./thumbnails/dataviz.png",
             "media": "https://www.youtube.com/embed/8nKsKM-M0n0?modestbranding=1&rel=0&showinfo=0",
             "description":"A data visualization project about trending videos on Youtube in 2020. The dataset used in this project can be found <a target='_blank' style='color:white;' href='https://www.kaggle.com/rsrishav/youtube-trending-video-dataset'> here </a> <br> <ul> <li> Coded in Javascript, using d3 library <li> Date: 12/2021 <li> Time spent: 3 days </ul>"
         },
         {
             "id":"non-rigid",
             "name":"Non-Rigid Deformation",
-            "thumbnail":"/thumbnails/non-rigid.png",
+            "thumbnail":"./thumbnails/non-rigid.png",
             "media": "https://www.youtube.com/embed/Zm64C5IdN8g?modestbranding=1&rel=0&showinfo=0",
             "description":"This project explored the paper <i> As-Rigid-As-Possible Surface Modeling </i> written by O. Sorkine and M.Alexa. The goal was to implement a tool for intuitive shape deformation: a given mesh S should be transformed into a mesh S' such that the deformation remains as rigid as possible. Once the user has defined control points that will not move, he/she just has to move some other points, and the mesh will deform in a realistic way. <br> <ul> <li> Coded in C++ <li> Date: 12/2021 <li> Time spent: 1 week </ul>"
         },
         {
             "id":"tenet",
             "name":"Tenet",
-            "thumbnail":"/thumbnails/tenet.png",
+            "thumbnail":"./thumbnails/tenet.png",
             "media": "https://www.youtube.com/embed/gyAUloRgF9E?modestbranding=1&rel=0&showinfo=0",
             "description":"My first computer graphics coding project. In a group of 3, we tried to create a scene with a Tenet-like concept for a school project. <br> <ul> <li> Coded in C++, source code <a target='_blank' style='color:white;' href='https://github.com/LemillionX/inf443'> here </a> <li> Date: 06/2021 <li> Time spent: 1 month approx.</ul>"
         }
