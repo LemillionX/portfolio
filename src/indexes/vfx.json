@@ -1,7 +1,7 @@
 {
     "id": "editing",
     "name":"Compositing",
-    "thumbnail":"/thumbnails/logo.png",
+    "thumbnail":"/thumbnails/vfx.png",
     "background":"/background/editing.png" ,
     "elements": [
         {
@@ -9,14 +9,21 @@
             "name":"Just Dance: Blinding ligths",
             "thumbnail":"/thumbnails/just-dance.png",
             "media": "https://www.youtube.com/embed/WHNvdjrk-V8?modestbranding=1&rel=0&showinfo=0",
-            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+            "description":"A video inspired from the game <i> Just Dance </i>, created for a show in my university. The song is <i> Blinding ligths </i> by The Weeknd. <br> <ul> <li> Software: After Effects, Blender (Eeeve) and Premiere Pro <li> Date: 03/2022 <li> Time spent: 2 weeks approx.  </ul>"
         },
         {
-            "id":"compositiong2",
-            "name":"Projet 2",
-            "thumbnail":"/thumbnails/logo.png",
-            "media": "https://www.youtube.com/embed/pts76zKB8hM?modestbranding=1&rel=0&showinfo=0",
-            "description":"Lorem ipsum dolor sit amet, <br> consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+            "id":"statues",
+            "name":"VFX Statues",
+            "thumbnail":"/thumbnails/statues.png",
+            "media": "https://www.youtube.com/embed/hJQWtkm-irc?modestbranding=1&rel=0&showinfo=0",
+            "description": "3D reconstruction of people. Before being textured, the faces were reconstructed using photogrammetry, while the hairs and the bodies were hand-made in Blender. <br> <ul> <li> Software: Photoshop, Blender (Cycles) and Premiere Pro <li> Date: 12/2021 <li> Time spent: 3 weeks approx.  </ul>"
+        },
+        {
+            "id":"sequence-shot-vfx",
+            "name":"Sequence shot VFX",
+            "thumbnail":"/thumbnails/jtx19.png",
+            "media": "https://www.youtube.com/embed/2rLPVV9v4UU?modestbranding=1&rel=0&showinfo=0",
+            "description":"Some VFX applied to a sequence shot. <br> <ul> <li> Software: Blender (Cycles) and Premiere Pro <li> Date: 04/2021 <li> Time spent: 3 days </ul>"
         }
     ]
 }

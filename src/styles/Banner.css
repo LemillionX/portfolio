@@ -44,7 +44,7 @@
     text-shadow: 1px 1px 2px black;
 }
 .banner-item:link{text-decoration: none;}
-.banner-item:hover{text-shadow: 1px 1px 20px black;}
+.banner-item:hover{text-shadow: 1px 1px 20px rgb(255, 255, 255);}
 
 .portfolio-bio {
     animation: slide-in 1s ease-out;
@@ -136,7 +136,7 @@
         text-shadow: 1px 1px 2px black;
     }
     .banner-item:link{text-decoration: none;}
-    .banner-item:hover{text-shadow: 1px 1px 20px black;}
+    .banner-item:hover{text-shadow: 1px 1px 20px rgb(255, 255, 255);}
     
     .portfolio-bio {
         animation: slide-in 1s ease-out;

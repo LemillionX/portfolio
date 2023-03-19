@@ -1,7 +1,7 @@
 {
     "id": "3d-animations",
     "name":"3D Animations",
-    "thumbnail":"/thumbnails/logo.png",
+    "thumbnail":"/thumbnails/animation.png",
     "background":"/background/animations.png" ,
     "elements": [
         {
@@ -26,6 +26,13 @@
             "description":"An attempt to create a Disney-like animation using <i> The Voice France</i>'s interpretation of Katy Perry's song, <i> Fireworks</i>. Characters are <i> Rain </i> (Blender Studio) and <i> Iris </i> (@pancake_manicure) <br> <ul> <li> Software: Blender (Cycles) <li> Date: 09/2022 <li> Time spent: 3 weeks approx. </ul> "
         },
         {
+            "id":"zeal-of-proud",
+            "name":"Zeal of Proud",
+            "thumbnail":"/thumbnails/roselia.png",
+            "media": "https://www.youtube.com/embed/WfSrRJHF4P8?modestbranding=1&rel=0&showinfo=0",
+            "description":"Fan-made animation of Roselia singing <i> Zeal of Proud </i> on stage. First attempt to apply physics on bones for hair and cloth simulations. Characters are from <i> BanG Dream! </i> (Bushiroad) <br> <ul> <li> Software: Blender (Cycles) and Premiere Pro <li> Date: 07/2022 <li> Time spent: 3 weeks approx. </ul> "
+        },
+        {
             "id":"shadow",
             "name":"Shadow the Hedgehog",
             "thumbnail":"/thumbnails/shadow-the-hedgehog.png",
@@ -37,7 +44,7 @@
             "name":"Raiden",
             "thumbnail":"/thumbnails/raiden_-entrance.png",
             "media": "https://www.youtube.com/embed/qOUiX1pQls4?modestbranding=1&rel=0&showinfo=0",
-            "description":" <br> <ul> <li> Software: Blender (Eevee) <li> Date: 07/2022 <li> Time spent: 1 week approx. </ul>"
+            "description":"An attempt to reproduce Raiden's entrance from <i> Genshin Impact </i> <br> <ul> <li> Software: Blender (Eevee) <li> Date: 07/2022 <li> Time spent: 1 week approx. </ul>"
         },    
         {
             
@@ -80,7 +87,7 @@
             "name":"Untitled",
             "thumbnail":"/thumbnails/untitled.png",
             "media": "https://www.youtube.com/embed/rpqKkX9FQp0?modestbranding=1&rel=0&showinfo=0",
-            "description":"TO DO. <br> <ul> <li> Software: Blender (Cycles) <li> Date: 12/2021 <li> Time spent: 4 weeks approx. </ul> "
+            "description":"My first little movie. <br> <ul> <li> Software: Blender (Cycles) <li> Date: 12/2021 <li> Time spent: 4 weeks approx. </ul> "
 
         },
         {
@@ -88,7 +95,7 @@
             "name":"Daily life",
             "thumbnail":"/thumbnails/daily-life.png",
             "media": "https://www.youtube.com/embed/siBNavmm_n0?modestbranding=1&rel=0&showinfo=0",
-            "description":"TO DO. <br> <ul> <li> Software: Blender (Cycles) <li> Date: 05/2021 <li> Time spent: 2 weeks approx. </ul> "
+            "description":"Inspired by <i> Horimiya, </i> this is a short clip describing the everyday life of a member of a video production association. <br> <ul> <li> Software: Blender (Cycles) <li> Date: 05/2021 <li> Time spent: 2 weeks approx. </ul> "
 
         },
         {
@@ -96,7 +103,7 @@
             "name":"M6 add remake",
             "thumbnail":"/thumbnails/jtx-m6.png",
             "media": "https://www.youtube.com/embed/D3vi2jvmY8U?modestbranding=1&rel=0&showinfo=0",
-            "description":"TO DO. <br> <ul> <li> Software: Blender (Eevee) <li> Date: 05/2021 <li> Time spent: 1 hour approx. </ul> "
+            "description":"An attempt to reproduce the commercial spot of the channel M6. <br> <ul> <li> Software: Blender (Eevee) <li> Date: 05/2021 <li> Time spent: 1 hour approx. </ul> "
 
         },
         {

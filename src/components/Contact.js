@@ -8,10 +8,10 @@ const Contact = () => (
       <Banner/>
       <div className="portfolio-bio">
         <div className='bio-description'>
-        I absolutely love coding and creating all sorts of cool stuff with computer graphics and science!
-        Whether it's whipping up mind-blowing 2D and 3D animations, developing physics simulations that'll knock your socks off, or exploring the wild and wonderful world of computer science and math,
-        I am always up for a challenge. I'm constantly learning new skills and looking for ways to bring my ideas to life,
-        and I'd be thrilled to connect with anyone who shares my passion for this awesome field.
+        As an engineering student, I am deeply interested in software development and the powerful tools it provides to bring ideas to life.
+        My passion for computer graphics and the art of crafting engaging animations in 2D and 3D, as well as my fascination with the world of computer science and mathematics,
+        drive me to constantly seek out new challenges and opportunities to hone my skills. I am excited to continue exploring the endless possibilities of these fields and bring
+        my ideas to the world. If you share my passion for these exciting disciplines, I would be thrilled to connect with you!
         </div>
         <div className='portfolio-contact'>
             {file.elements.map( (section) => 
