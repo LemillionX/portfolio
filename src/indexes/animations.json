@@ -1,13 +1,13 @@
 {
     "id": "3d-animations",
     "name":"3D Animations",
-    "thumbnail":"/thumbnails/animation.png",
-    "background":"/background/animations.png" ,
+    "thumbnail":"./thumbnails/animation.png",
+    "background":"./background/animations.png" ,
     "elements": [
         {
             "id":"violet",
             "name":"Auto Memory Doll",
-            "thumbnail":"/thumbnails/auto-memory-doll.png",
+            "thumbnail":"./thumbnails/auto-memory-doll.png",
             "media": "https://www.youtube.com/embed/SRENQymXKac?modestbranding=1&rel=0&showinfo=0",
             "description":"An introduction scene of Violet Evergarden, the main character of the eponym light novel that got an animated adaptation by Kyoto Animation. <br> <i> Violet's model by Okuto. </i> <br> <ul> <li> Software: Blender (Cycles) <li> Date: 05/2022 <li> Time spent: 1 week approx.  </ul>"
         },
