@@ -29,7 +29,7 @@
             "id":"facial-retargeting",
             "name":"Facial Retargeting",
             "thumbnail":"./thumbnails/facial-retargeting.png",
-            "media": "./thumbnails/facial-retargeting.png",
+            "media": "https://www.youtube.com/embed/RKymn-Qrxhg?modestbranding=1&rel=0&showinfo=0",
             "description":"During my internship in the R&D team of MocapLab, I had to design a simple and robust facial integration tool from point clouds. The implemented method is compatible with 3D or 2D data, works in a reasonable time and can be integrated in Maya and MotionBuilder. <br> <ul> <li> Coded in Python and C++ <li> Date: 08/2022 <li> Time spent: 5 months </ul>"
         },
         {

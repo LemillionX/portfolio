@@ -1,20 +1,25 @@
 import '../styles/Project.css'
 import { Link } from 'react-router-dom';
 import ProjectThumbnail from './ProjectThumbnail';
-import { useEffect } from 'react';
+import { useEffect, useRef } from 'react';
 
 function getRandomElementsFromArray(arr, n) {
     const shuffled = [...arr].sort(() => 0.5 - Math.random());
     return shuffled.slice(0, n);
   }
 
-const Project = ({section, project }) => (
+const Project = ({section, project }) => {
+    const myRef = useRef(null);
+
     useEffect(() => {
         document.body.style.backgroundBlendMode = "overlay";
-      }),
+        myRef.current.focus();
+      }, []);
+
+    return (
     <div className="portfolio-project">
         <h1 className='project-title'> <Link to={"/"+section.id} className='project-header' >  {section.name}</Link> - {project.name} </h1>
-        <div className='project-content'>
+        <div className='project-content' ref={myRef}>
             <div>
                 <iframe src={project.media} alt={project.media} className="portfolio-media" frameBorder="0" ></iframe>
             </div>
@@ -31,8 +36,8 @@ const Project = ({section, project }) => (
             )
             }
         </div>
-    </div>
-);
+    </div>);
+}
 
 
 export default Project;
