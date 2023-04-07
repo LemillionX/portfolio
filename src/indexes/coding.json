@@ -36,7 +36,7 @@
             "id":"suggestive-contours",
             "name":"Suggestive contours",
             "thumbnail":"./thumbnails/suggestive-contours.png",
-            "media": "./thumbnails/suggestive-contours.png",
+            "media": "https://www.youtube.com/embed/qOjdaCqAbso?modestbranding=1&rel=0&showinfo=0",
             "description":"An implementation of the object-based approach of the paper <i> Suggestive Contours for Conveying Shape.</i> written by D. DeCarlo, A. Finkelstein, S. Rusinkiewicz, and A. Santella. This project adresses a non-photorealistic rendering question: how to draw the contours of a 3D mesh in the way an artist would do it. By taking into account the human perception, an artist not only draws the contours of an object, which are features where a surface bends sharply away from the viewer - yet remains visible -, but also suggestive contours, i-e lines that are almost contours, that become contours in nearby views. <br> <ul> <li> Coded in C++ <li> Date: 03/2022 <li> Time spent: 1 week </ul>"
         },              
         {
