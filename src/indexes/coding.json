@@ -15,7 +15,7 @@
             "id":"xpbd",
             "name":"XPBD",
             "thumbnail":"./thumbnails/xpbd.png",
-            "media": "./thumbnails/xpbd.png",
+            "media": "https://www.youtube.com/embed/Sd0yFCEmtKw?modestbranding=1&rel=0&showinfo=0",
             "description":"One approach to perform fast physics simulations is position-based dynamics (PBD). The basic idea is, for a set of vertices, to move them in such a way that certain constraints are satisfied. Although this is a simple and fast method to animate objects, it is not physically accurate and has some notable flaws. One of these problems is the dependence of the stiffness on the number of substeps in the Gauss-Seidel method used to solve the system. In this project, we explore XPBD, an extended version of PBD that addresses this stiffness dependence problem. <br> <ul> <li> Coded in C++, source code <a target='_blank' style='color:white;' href='https://github.com/LemillionX/IMA904_XPBD'> here </a> <li> Date: 02/2023 <li> Time spent: 2 months approx. </ul>"
         },
         {
