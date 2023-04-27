@@ -5,6 +5,13 @@
     "background":"./background/animations.png" ,
     "elements": [
         {
+            "id":"x-mas",
+            "name":"Merry X-mas",
+            "thumbnail":"./thumbnails/x-mas.png",
+            "media": "https://www.youtube.com/embed/Rrmqgk53HYc?modestbranding=1&rel=0&showinfo=0",
+            "description":"Short animation for Christmas, featuring a customized Xion from <i> Kingdom Hearts</i>. <br> <ul> <li> Software: Blender (Cycles) <li> Date: 12/2022 <li> Time spent: 2 days approx.  </ul>"
+        },
+        {
             "id":"violet",
             "name":"Auto Memory Doll",
             "thumbnail":"./thumbnails/auto-memory-doll.png",
