@@ -11,6 +11,7 @@ const Section = ({section}) => (
       }),
     <div className='portoflio-section'>
         <h1 className='project-title'> <Link to="/" className='project-header'>  Home</Link> - {section.name} </h1>
+        <div className='section-desc'> {section.description} </div>
         <div className='project-list'>
         {section.elements.map( (project) => 
           <ProjectThumbnail key={project.id}

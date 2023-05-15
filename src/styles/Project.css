@@ -56,6 +56,15 @@
     gap: 50px;
 }
 
+.section-desc {
+    background-color: #00000073;
+    padding: 7px;
+    font-style: italic;
+    text-align: center;
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+
 .project-header:link { text-decoration: none; }
 .project-header:hover { background-color: rgba(82, 82, 82, 0.548);}
 

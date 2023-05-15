@@ -3,6 +3,7 @@
     "name":"Compositing",
     "thumbnail":"./thumbnails/vfx.png",
     "background":"./background/editing.png" ,
+    "description": "I discovered the captivating world of visual effects and composition as a hobby during my university studies. Below are some videos I created for my school's association at that time.",
     "elements": [
         {
             "id":"just-dance",
