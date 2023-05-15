@@ -48,10 +48,10 @@
     text-align: center;
     margin: 10px;
     transition-duration: 0.1s;
-    transform: scale(0.95);  
+    transform: scale(0.7);  
 }
 
-.tool-thumbnail:hover{transform: scale(1);}
+.tool-thumbnail:hover{transform: scale(.9);}
 
 .tool-description{
     font-size: .9em;

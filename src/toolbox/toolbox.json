@@ -1,0 +1,32 @@
+{
+    "elements":[
+        {
+            "id":"blender",
+            "name":"Blender",
+            "thumbnail":"./icons/icon-blender.png",
+            "description":"I'm using Blender for 3D Animation and Compositing. I can also use its API to use Python code",
+            "proficiency": 4 
+        },
+        {
+            "id":"python",
+            "name":"Python",
+            "thumbnail":"./icons/icons8-python-240.png",
+            "description":"I've been coding various projects in Python",
+            "proficiency": 4 
+        },
+        {
+            "id":"cpp",
+            "name":"C++",
+            "thumbnail":"./icons/icons8-c++-250.png",
+            "description":"Most of my CG projects were done in C++",
+            "proficiency": 4  
+        },
+        {
+            "id":"qt",
+            "name":"Qt",
+            "thumbnail":"./icons/icons8-qt-250.png",
+            "description":"I learnt to use Qt during the last year of my engineering studies",
+            "proficiency": 2              
+        }
+    ]
+}
