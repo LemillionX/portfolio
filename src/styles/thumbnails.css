@@ -14,7 +14,7 @@
     object-fit: cover;
 }
 
-.project-thumbnail:hover{transform: scale(1);}
+.project-thumbnail:hover{transform: scale(1.1);}
 
 .project-legend {
     color: white;  
@@ -38,6 +38,42 @@
     text-shadow: 1px 1px 2px black, 0 0 1em black, 0 0 0.2em black;
 }
 .contact-legend:link { text-decoration: none; }
+
+
+.tool-thumbnail {
+    position: relative;
+    background-color: rgba(0, 0, 0, 0.85);
+    display: inline-table;
+    overflow: hidden;
+    text-align: center;
+    margin: 10px;
+    transition-duration: 0.1s;
+    transform: scale(0.95);  
+}
+
+.tool-thumbnail:hover{transform: scale(1);}
+
+.tool-description{
+    font-size: .9em;
+    position: absolute;
+    top: 50%;
+    left: 20%;
+    transform: translate(-10%, -50%);
+    opacity: 0;
+    transition: opacity 0.2s ease-in-out;
+}
+
+.tool-thumbnail:hover > .tool-description{
+    opacity: 1;
+}
+
+.tool-thumbnail:hover > .thumbnail {
+    opacity: 0.1;
+}
+
+.tool-legend {
+    color: white;  
+}
 
 
 
