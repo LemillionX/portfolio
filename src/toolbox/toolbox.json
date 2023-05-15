@@ -1,13 +1,6 @@
 {
     "elements":[
         {
-            "id":"blender",
-            "name":"Blender",
-            "thumbnail":"./icons/icon-blender.png",
-            "description":"I'm using Blender for 3D Animation and Compositing. I can also use its API to use Python code",
-            "proficiency": 4 
-        },
-        {
             "id":"python",
             "name":"Python",
             "thumbnail":"./icons/icons8-python-240.png",
@@ -18,15 +11,162 @@
             "id":"cpp",
             "name":"C++",
             "thumbnail":"./icons/icons8-c++-250.png",
-            "description":"Most of my CG projects were done in C++",
+            "description":"Most of my CG projects were done in C++. I also coded other projects in C++",
             "proficiency": 4  
+        },
+        {
+            "id":"blender",
+            "name":"Blender",
+            "thumbnail":"./icons/icon-blender.png",
+            "description":"I've been using Blender for 3D Animation and Compositing since 2020. I can also use its API to use Python code",
+            "proficiency": 4 
+        },
+        {
+            "id":"java",
+            "name":"Java",
+            "thumbnail":"./icons/icon-java.png",
+            "description":"Some of my school projects and practical assignments were coded in Java and Java Swing",
+            "proficiency": 3  
+        },
+        {
+            "id":"csharp",
+            "name":"C#",
+            "thumbnail":"./icons/icon-csharp.png",
+            "description":"I used C# in Unity for one school project",
+            "proficiency": 2  
+        },
+        {
+            "id":"tensorflow",
+            "name":"TensorFlow",
+            "thumbnail":"./icons/icons8-tensorflow-240.png",
+            "description":"I started to learn how to use TensorFlow to perform optimization for one of my projects",
+            "proficiency": 2              
+        },
+        {
+            "id":"ffmpeg",
+            "name":"FFmpeg",
+            "thumbnail":"./icons/icons8-ffmpeg-48.png",
+            "description":"I learnt to use FFmpeg during an internship where I needed to automate video editing in order to present my results",
+            "proficiency": 2  
         },
         {
             "id":"qt",
             "name":"Qt",
             "thumbnail":"./icons/icons8-qt-250.png",
-            "description":"I learnt to use Qt during the last year of my engineering studies",
+            "description":"I developed small apps using Qt during the last year of my engineering studies",
             "proficiency": 2              
+        },
+        {
+            "id":"git",
+            "name":"Git",
+            "thumbnail":"./icons/icon-git.png",
+            "description":"I use git to manage coding projects. I've stored projects on GitHub and school's GitLab  ",
+            "proficiency": 2              
+        },
+        {
+            "id":"vs",
+            "name":"Visual Studio",
+            "thumbnail":"./icons/icons8-visual-studio-144.png",
+            "description":"I use Visual Studio to code and compile C++ on Windows",
+            "proficiency": 2                 
+        },
+        {
+            "id":"vscode",
+            "name":"Visual Studio Code",
+            "thumbnail":"./icons/icons8-visual-studio-code-2019-144.png",
+            "description":"My main IDE is Visual Studio Code",
+            "proficiency": 3                 
+        },
+        {
+            "id":"html",
+            "name":"HTML, CSS, Javascript",
+            "thumbnail":"./icons/icon-html.png",
+            "description":"I learnt HTML, CSS and Javascript in a web development class and then went on to deepen my knowledge in this area myself",
+            "proficiency": 3  
+        },
+        {
+            "id":"react",
+            "name":"React",
+            "thumbnail":"./icons/icon-react.png",
+            "description":"I learnt React by myself to code this website using NodeJS. I also used TypeScript for one school project",
+            "proficiency": 2  
+        },
+        {
+            "id":"php",
+            "name":"PHP",
+            "thumbnail":"./icons/icon-php.png",
+            "description":"My two first websites were coded using PHP",
+            "proficiency": 2  
+        },
+        {
+            "id":"mobu",
+            "name":"Autodesk Motion Builder",
+            "thumbnail":"./icons/icon-mobu.png",
+            "description":"I developed, during an internship, a facial retargeting tool that was integrated in Motion Builder",
+            "proficiency": 1 
+        },
+        {
+            "id":"maya",
+            "name":"Autodesk Maya",
+            "thumbnail":"./icons/icon-maya.png",
+            "description":"I developed, during an internship, a facial retargeting tool that was integrated in Maya",
+            "proficiency": 1 
+        },
+        {
+            "id":"opengl",
+            "name":"OpenGL",
+            "thumbnail":"./icons/icon-opengl.png",
+            "description":"Most of my CG projects were done in C++, using OpenGL",
+            "proficiency": 3  
+        },
+        {
+            "id":"premiere",
+            "name":"Adobe Premiere Pro",
+            "thumbnail":"./icons/icon-premiere.png",
+            "description":"I've been using Premiere Pro for personnal videos editing",
+            "proficiency": 3              
+        },
+        {
+            "id":"after",
+            "name":"Adobe After Effects",
+            "thumbnail":"./icons/icon-after.png",
+            "description":"I've been using After Effects for VFX",
+            "proficiency": 2              
+        },
+        {
+            "id":"photoshop",
+            "name":"Adobe Photoshop",
+            "thumbnail":"./icons/icon-photoshop.png",
+            "description":"I've been using Photoshop to create images or to edit textures",
+            "proficiency": 3              
+        },
+        {
+            "id":"gimp",
+            "name":"GIMP",
+            "thumbnail":"./icons/icon-gimp.png",
+            "description":"I've been using GIMP to create images or to edit textures",
+            "proficiency": 3              
+        },
+        {
+            "id":"latex",
+            "name":"Latex",
+            "thumbnail":"./icons/icon-latex.png",
+            "description":"I've been using LateX to write my reports and other scientific documents",
+            "proficiency": 4              
+        },
+        {
+            "id":"ubuntu",
+            "name":"Ubuntu",
+            "thumbnail":"./icons/icon-ubuntu.png",
+            "description":"I have a dual boot on Windows and Linux (with a Ubuntu distribution)",
+            "proficiency": 3              
+        },
+        {
+            "id":"office",
+            "name":"Microsoft Office",
+            "thumbnail":"./icons/icons8-office-365-96.png",
+            "description":"I've been using Microsoft Office since my childhood (mostly Word, Excel, Powerpoint, Teams)",
+            "proficiency": 4              
         }
     ]
 }
