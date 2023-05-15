@@ -9,6 +9,7 @@ function Banner() {
         <h1> Sammy Rasamimanana  </h1>
         <Link to="/" className='banner-item'> Home </Link>
         <Link to="/contact"  className='banner-item'> Contact </Link>
+        <Link to="/toolbox"  className='banner-item'> Toolbox </Link>
     </div>
     )
 }

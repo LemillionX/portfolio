@@ -3,7 +3,7 @@
     "name":"Coding Projects",
     "thumbnail":"./thumbnails/coding.png",
     "background":"./background/coding.png" ,
-    "description": "I am deeply interested in software development and the powerful tools it provides to bring ideas to life. Throughout my engineer degree, I have been exposed to a variety of problem solving challenges in a range of different areas, from practical, hands-on projects to more theoretical ones. ",
+    "description": "I have a profound interest in software development and its potential to help people. During my engineering studies, I have encountered various problem-solving challenges in a diverse range of domains, from practical and hands-on projects to more theoretical ones.",
     "elements": [        
         {
             "id":"df-stable-fluids",

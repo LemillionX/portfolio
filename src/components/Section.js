@@ -9,7 +9,7 @@ const Section = ({section}) => (
         document.body.style.backgroundBlendMode = "normal";
         document.body.style.backgroundImage = "url('" + section.background + "')" ;
       }),
-    <div className='portoflio-section'>
+    <div className='portfolio-section'>
         <h1 className='project-title'> <Link to="/" className='project-header'>  Home</Link> - {section.name} </h1>
         <div className='section-desc'> {section.description} </div>
         <div className='project-list'>
