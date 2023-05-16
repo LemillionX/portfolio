@@ -1,6 +1,6 @@
 import './Home.css';
 import Banner from './Banner';
-import ProjectThumbnail from './ProjectThumbnail';
+import SectionThumbnail from './SectionThumbnail';
 import { useEffect } from 'react';
 
 const requireContext = require.context('../indexes', false, /\.json$/);
@@ -16,10 +16,11 @@ const Home = () => (
       <Banner/>
       <div className='portfolio-sections'>
         {files.map( (section) => 
-            <ProjectThumbnail key={section.id}
+            <SectionThumbnail key={section.id}
                 imageUrl={section.thumbnail}
                 title={section.name}
                 linkUrl={`./${section.id}`}
+                description={section.description}
                 />
             )}
         </div>

@@ -7,6 +7,35 @@
     transition-duration: 0.1s;
     transform: scale(0.95);  
 }
+.project-thumbnail:hover{transform: scale(1.1);}
+
+.section-thumbnail {
+    background-color: rgba(0, 0, 0, 0.85);
+    display: inline-table;
+    overflow: hidden;
+    text-align: center;
+    margin: 10px;
+    transition-duration: 0.1s;
+    transform: scale(0.95);  
+}
+
+.section-thumbnail:hover{transform: scale(1.1);}
+.section-description{
+    font-size: .7em;
+    position: absolute;
+    top: 50%;
+    left: 20%;
+    transform: translate(-10%, -60%);
+    opacity: 0;
+    transition: opacity 0.2s ease-in-out;
+}
+.section-thumbnail:hover > * .section-description{
+    opacity: 1;
+}
+
+.section-thumbnail:hover > * .thumbnail {
+    opacity: 0.1;
+}
 
 .thumbnail {
     height: 199px;
@@ -14,7 +43,6 @@
     object-fit: cover;
 }
 
-.project-thumbnail:hover{transform: scale(1.1);}
 
 .project-legend {
     color: white;  
