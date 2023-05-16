@@ -3,7 +3,7 @@
     "name":"3D Animations",
     "thumbnail":"./thumbnails/animation.png",
     "background":"./background/animations.png" ,
-    "description": "During my university years, I discovered 3D animation and Computer Graphics through a school association, and it quickly became my passion. I spend my free time creating small animations, not only to have fun, but also to better understand the desires of artists. As an engineer, I think this hobby will allow me to create tools that will be useful for artists.",
+    "description": "During my university years, I discovered 3D animation and Computer Graphics through a school association, and it quickly became my passion. I spend my free time creating small animations, not only to have fun, but also to better understand the desires of artists. As an engineer, I think this hobby will allow me to create tools that will be useful for them.",
     "elements": [
         {
             "id":"x-mas",
