@@ -88,7 +88,7 @@
             "id":"react",
             "name":"React",
             "thumbnail":"./icons/icon-react.png",
-            "description":"I learnt React by myself to code this website using NodeJS. I also used TypeScript for one school project",
+            "description":"I learnt React by myself to code this website using Javascript. I also used TypeScript for one school project",
             "proficiency": 2  
         },
         {
