@@ -6,6 +6,13 @@
     "description": "During my university years, I discovered 3D animation and Computer Graphics through a school association, and it quickly became my passion. I spend my free time creating small animations, not only to have fun, but also to better understand the desires of artists. As an engineer, I think this hobby will allow me to create tools that will be useful for them.",
     "elements": [
         {
+            "id":"gate-of-babylon",
+            "name":"Gate of Babylon",
+            "thumbnail":"./thumbnails/gate-of-babylon.png",
+            "media": "https://www.youtube.com/embed/YsA2XkwCD0Q?modestbranding=1&rel=0&showinfo=0",
+            "description":"Hair simulation of Lightning from <i> Final Fantasy XIII-2 </i> performing <i> Gate of Babylon </i>.  <br> <ul> <li> Software: Blender (Cycles) <li> Date: 03/2023 <li> Time spent: 1 day approx.  </ul>"
+        },
+        {
             "id":"x-mas",
             "name":"Merry X-mas",
             "thumbnail":"./thumbnails/x-mas.png",

@@ -9,8 +9,8 @@
             "id":"df-stable-fluids",
             "name":"Differentiable Stable Fluid",
             "thumbnail":"./thumbnails/df-stable-fluids.png",
-            "media": "./thumbnails/df-stable-fluids.png",
-            "description":"The objective of this project was to develop a stable fluid solver using the TensorFlow machine learning library. The solver is differentiable and able to integrate into training processes. <br> <ul> <li> Coded in Python, source code <a target='_blank' style='color:white;' href='https://github.com/LemillionX/PRIM_S1'> here </a> <li> Date: 02/2023 <li> Time spent: 2 months approx. </ul>"
+            "media": "https://www.youtube.com/embed/2IyM3s0poSM?modestbranding=1&rel=0&showinfo=0",
+            "description":"<i> Work in Progress </i> The objective of this project is to develop a stable fluid solver using the TensorFlow machine learning library. The solver is differentiable and able to integrate into training processes. <br> <ul> <li> Coded in Python, source code <a target='_blank' style='color:white;' href='https://github.com/LemillionX/PRIM_S1'> here </a> <li> Date: 06/2023 <li> Time spent: 3 months approx. </ul>"
         },
         {
             "id":"xpbd",
