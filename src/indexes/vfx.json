@@ -6,6 +6,13 @@
     "description": "I discovered the captivating world of visual effects and composition as a hobby during my university studies. Below are some videos I created for my school's association at that time.",
     "elements": [
         {
+            "id":"tales-of-glory",
+            "name":"Tales of Glory",
+            "thumbnail":"./thumbnails/tales_of_glory.png",
+            "media": "https://www.youtube.com/embed/gmOQ65TkF74?modestbranding=1&rel=0&showinfo=0",
+            "description":"Some compositing to illustrate <i> Tales of Glory</i>, an original song written, composed and interpretated by a friend of mine. <br> <ul> <li> Blender (Cycles) and Premiere Pro <li> Date: 06/2023 <li> Time spent: 1 day </ul>"
+        },
+        {
             "id":"just-dance",
             "name":"Just Dance: Blinding ligths",
             "thumbnail":"./thumbnails/just-dance.png",
